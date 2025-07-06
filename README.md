@@ -56,6 +56,6 @@ Jinja2 – for rendering HTML
 
 HTML/JS – frontend interface
 
-## 🌐 Live Webiste
+## 🌐 Live Website
 Main page : http://103.179.44.192:8000/
 Api Docs : http://103.179.44.192:8000/docs
